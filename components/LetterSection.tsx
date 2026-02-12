@@ -38,7 +38,7 @@ export const LetterSection: React.FC<LetterSectionProps> = ({
           I’m incredibly grateful for you — for your presence, your vibe, and that unique magic you carry effortlessly.
         </p>
         <p className="font-semibold text-pink-300">So… will you be my Valentine? 💗</p>
-        <div className="font-pacifico text-2xl mt-4 text-white/95">— from your boyfriend 🫶</div>
+        <div className="font-pacifico text-2xl mt-4 text-white/95">— from SHAURYA 🫶</div>
       </div>
 
       <div className="flex flex-wrap gap-3 mt-4">
